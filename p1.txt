@@ -1,1 +1,2 @@
 hello i love git and i will learn git 
+i hate git 
